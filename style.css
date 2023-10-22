@@ -1,0 +1,26 @@
+.main {
+  border: 2px seagreen;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  background-color: aqua;
+}
+
+.aligns1 {
+  width: 80px;
+  background-color: blue;
+  margin: 10px;
+}
+
+.aligns2 {
+  width: 70px;
+  background-color: orange;
+  margin: 10px;
+}
+
+.aligns3 {
+  width: 100px;
+  background-color: green;
+  margin: 10px;
+}
